@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上
 "love_date": "2020-01-17",
 # 金句中文，如果为空，默认会读取金山的每日金句
-"note_ch": "",
+"note_ch": "人间无趣，但有先生你♥",
 # 金句英文
-"note_en": "人间无趣，但有先生你♥"
+"note_en": "world is boring, but there are you, sir."
 }
